@@ -1,0 +1,43 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:mediumseagreen;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVu-K9CfN9RKKqROU3X31NTq48dD7tCcluA&usqp=CAU");
+    background-repeat: repeat;
+    background-size: contain;
+    color:whitesmoke/*font color*/
+
+
+}
+img{display: block;
+    /*content*/
+    padding: 15px;
+    border: 2px solid wheat;
+    margin: auto;
+
+
+}
+a{
+    color:aqua
+}
+a:visited{
+    color: aquamarine;
+}
+li{
+    font-style: italic;
+}
+li:hover{
+    font-size: 105%;
+    text-decoration:underline;
+    background-color:aqua;
+
+
+}
+.gangnam{
+    font-family: chiller;
+    font-style: italic;
+    font-weight: bolder;
+    color: red;
+    background: purple;
+    border: 5px dotted aqua;
+    
+}
